@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800880936292",
+    "firebase_url": "https://charge-72308.firebaseio.com",
+    "project_id": "charge-72308",
+    "storage_bucket": "charge-72308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800880936292:android:3f435380776ba6e5e1e671",
+        "android_client_info": {
+          "package_name": "com.srab.srabcharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800880936292-stuoub0dgg7r2kbj03ufb0aprgqb5dnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srab.srabcharge",
+            "certificate_hash": "cb3c1d920066a61e9df185bdfb31b17e1119c97c"
+          }
+        },
+        {
+          "client_id": "800880936292-pmudqajcltcsm7kudgtj444tsq1fk95e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKOEor_qLGRHIdHXkoBuoBUr3-fJ5OeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800880936292-pmudqajcltcsm7kudgtj444tsq1fk95e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717005356857",
+    "firebase_url": "https://charger-ba14a.firebaseio.com",
+    "project_id": "charger-ba14a",
+    "storage_bucket": "charger-ba14a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717005356857:android:c9a3b5c2fbe6ffe38df2e8",
+        "android_client_info": {
+          "package_name": "com.srab.srabcharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717005356857-i1sonfmuo2ghe2hfpttucv9895vl3q8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srab.srabcharge",
+            "certificate_hash": "cb3c1d920066a61e9df185bdfb31b17e1119c97c"
+          }
+        },
+        {
+          "client_id": "717005356857-muomhuobstfml6drm967olo8pqdk7qlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQw9lTFnNXzmpXhG-gl8-DiLXgwmVNx24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717005356857-muomhuobstfml6drm967olo8pqdk7qlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
